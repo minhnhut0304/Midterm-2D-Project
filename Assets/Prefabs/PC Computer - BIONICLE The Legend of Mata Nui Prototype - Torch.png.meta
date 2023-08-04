@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 1e397ff4e9b1eae448a827cac6054867
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7862492845772240031
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_0
+  - first:
+      213: 7179169740995207975
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_1
+  - first:
+      213: 6652516867376124295
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_2
+  - first:
+      213: 3712609042610837312
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_3
+  - first:
+      213: -8649389113942520773
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_4
+  - first:
+      213: -7396021358644749377
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_5
+  - first:
+      213: 6457156191450377873
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_6
+  - first:
+      213: -6082755950067155771
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_7
+  - first:
+      213: -6979764641736285895
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_8
+  - first:
+      213: 7077294036341734523
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_9
+  - first:
+      213: 1856428940770635646
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_10
+  - first:
+      213: -4776822452595837541
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_11
+  - first:
+      213: -1711938717097724812
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_12
+  - first:
+      213: -1230305744569200717
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_13
+  - first:
+      213: 5697585870495116681
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_14
+  - first:
+      213: 107254633741715405
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_15
+  - first:
+      213: 8158500062179482184
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_16
+  - first:
+      213: -5132185522813445170
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_17
+  - first:
+      213: -8939441298547921158
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_18
+  - first:
+      213: -5709980873684051278
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_19
+  - first:
+      213: 3678430384208736391
+    second: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1040
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b02bef960d2e290800000000000000
+      internalID: -7862492845772240031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1093
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723a042b7d881a360800000000000000
+      internalID: 7179169740995207975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 971
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819f3628dc725c50800000000000000
+      internalID: 6652516867376124295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 902
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d8b60146d58330800000000000000
+      internalID: 3712609042610837312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c43536d6237f780800000000000000
+      internalID: -8649389113942520773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 764
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb17c692cd0c5990800000000000000
+      internalID: -7396021358644749377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 743
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e2d9a385d6c9950800000000000000
+      internalID: 6457156191450377873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 695
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7ad4f0b5b59ba0800000000000000
+      internalID: -6082755950067155771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 685
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312a79e905e22f90800000000000000
+      internalID: -6979764641736285895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 669
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cb32fcd69973260800000000000000
+      internalID: 7077294036341734523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 626
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f636d294c53c910800000000000000
+      internalID: 1856428940770635646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 557
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b953aedb94155bdb0800000000000000
+      internalID: -4776822452595837541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 488
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f62a9ec8fd38e0800000000000000
+      internalID: -1711938717097724812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 419
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf84d991731deee0800000000000000
+      internalID: -1230305744569200717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 350
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d65208924e11f40800000000000000
+      internalID: 5697585870495116681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 281
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc780b8658b0d7100800000000000000
+      internalID: 107254633741715405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 212
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad53ab490d83170800000000000000
+      internalID: 8158500062179482184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 143
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb5d4f5570d6c8b0800000000000000
+      internalID: -5132185522813445170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe289d8089b0f380800000000000000
+      internalID: -8939441298547921158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba99cde5a212c0b0800000000000000
+      internalID: -5709980873684051278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 55
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f3cdf1f86c0330800000000000000
+      internalID: 3678430384208736391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_0: -7862492845772240031
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_1: 7179169740995207975
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_10: 1856428940770635646
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_11: -4776822452595837541
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_12: -1711938717097724812
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_13: -1230305744569200717
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_14: 5697585870495116681
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_15: 107254633741715405
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_16: 8158500062179482184
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_17: -5132185522813445170
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_18: -8939441298547921158
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_19: -5709980873684051278
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_2: 6652516867376124295
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_20: 3678430384208736391
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_3: 3712609042610837312
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_4: -8649389113942520773
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_5: -7396021358644749377
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_6: 6457156191450377873
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_7: -6082755950067155771
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_8: -6979764641736285895
+      PC Computer - BIONICLE The Legend of Mata Nui Prototype - Torch_9: 7077294036341734523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

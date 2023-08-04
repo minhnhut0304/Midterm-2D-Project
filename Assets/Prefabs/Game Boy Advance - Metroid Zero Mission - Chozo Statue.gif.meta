@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 61df77ee2b77c5d42b03acc19613f8af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -163481927488589521
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_0
+  - first:
+      213: -4769409359768879040
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_1
+  - first:
+      213: 6938180128192732610
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_2
+  - first:
+      213: -2594766256879354461
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_3
+  - first:
+      213: 3483686440597338889
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_4
+  - first:
+      213: -3624073636792650314
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_5
+  - first:
+      213: -5450007577023725636
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_6
+  - first:
+      213: -7926800045184791631
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_7
+  - first:
+      213: -5717665610978782147
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_8
+  - first:
+      213: -8785807119257136766
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_9
+  - first:
+      213: -3250442761564258075
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_10
+  - first:
+      213: 2293201464944146314
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_11
+  - first:
+      213: -2296717023379302370
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_12
+  - first:
+      213: 1576736543155203416
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_13
+  - first:
+      213: 814728065643685263
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_14
+  - first:
+      213: 2564591796719482660
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_15
+  - first:
+      213: -9110341380445291491
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_16
+  - first:
+      213: 4531623765388795486
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_17
+  - first:
+      213: 3633977037759538053
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_18
+  - first:
+      213: -6341982084204904114
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_19
+  - first:
+      213: -4936684267169101547
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_20
+  - first:
+      213: -7059843434027091194
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_21
+  - first:
+      213: -8544575866485202269
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_22
+  - first:
+      213: 1677188237823194784
+    second: Game Boy Advance - Metroid Zero Mission - Chozo Statue_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 279
+        width: 325
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b8d89d023bbdf0800000000000000
+      internalID: -163481927488589521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0408d8ae477afcdb0800000000000000
+      internalID: -4769409359768879040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 160
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1a98011e594060800000000000000
+      internalID: 6938180128192732610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 161
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad398746d98dfbd0800000000000000
+      internalID: -2594766256879354461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 163
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b36a04c5a885030800000000000000
+      internalID: 3483686440597338889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 163
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5bd1f7a34b4bdc0800000000000000
+      internalID: -3624073636792650314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 163
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf305cebfead54b0800000000000000
+      internalID: -5450007577023725636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 163
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc53d5b595ef190800000000000000
+      internalID: -7926800045184791631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3494299b65c6a0b0800000000000000
+      internalID: -5717665610978782147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281949769fa821680800000000000000
+      internalID: -8785807119257136766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0093aa78b14e2d0800000000000000
+      internalID: -3250442761564258075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b66c159613df10800000000000000
+      internalID: 2293201464944146314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 66
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1852e7290c6020e0800000000000000
+      internalID: -2296717023379302370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85da4273881b1e510800000000000000
+      internalID: 1576736543155203416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 66
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85ab3debde7e4b00800000000000000
+      internalID: 814728065643685263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427785db6a2479320800000000000000
+      internalID: 2564591796719482660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c340c78c0919180800000000000000
+      internalID: -9110341380445291491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e97b71ecf83ee30800000000000000
+      internalID: 4531623765388795486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836599bcda7e6230800000000000000
+      internalID: 3633977037759538053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41431b45e0ccf7a0800000000000000
+      internalID: -6341982084204904114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519402f80df5d7bb0800000000000000
+      internalID: -4936684267169101547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf0f82dc5660e90800000000000000
+      internalID: -7059843434027091194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a226c145819b6980800000000000000
+      internalID: -8544575866485202269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Zero Mission - Chozo Statue_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 122
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a63ae0f0d1964710800000000000000
+      internalID: 1677188237823194784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_0: -163481927488589521
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_1: -4769409359768879040
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_10: -3250442761564258075
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_11: 2293201464944146314
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_12: -2296717023379302370
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_13: 1576736543155203416
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_14: 814728065643685263
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_15: 2564591796719482660
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_16: -9110341380445291491
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_17: 4531623765388795486
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_18: 3633977037759538053
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_19: -6341982084204904114
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_2: 6938180128192732610
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_20: -4936684267169101547
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_21: -7059843434027091194
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_22: -8544575866485202269
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_23: 1677188237823194784
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_3: -2594766256879354461
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_4: 3483686440597338889
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_5: -3624073636792650314
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_6: -5450007577023725636
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_7: -7926800045184791631
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_8: -5717665610978782147
+      Game Boy Advance - Metroid Zero Mission - Chozo Statue_9: -8785807119257136766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
